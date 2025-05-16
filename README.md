@@ -3,6 +3,8 @@
 ## Project Overview
 A comprehensive analysis of COVID-19 trends worldwide, tracking cases, deaths, recoveries, and vaccination progress through interactive visualizations.
 
+## Download dataset
+ -https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset?resource=download
 ## Key Features
 - Time series analysis of infection rates
 - Comparative country statistics
