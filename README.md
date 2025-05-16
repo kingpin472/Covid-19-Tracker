@@ -20,4 +20,4 @@ A comprehensive analysis of COVID-19 trends worldwide, tracking cases, deaths, r
 ## How to Run
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/covid19-global-tracker.git
+   https://github.com/kingpin472/Covid-19-Tracker
