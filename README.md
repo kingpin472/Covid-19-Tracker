@@ -17,6 +17,16 @@ A comprehensive analysis of COVID-19 trends worldwide, tracking cases, deaths, r
 - Matplotlib/Seaborn (Visualization)
 - Plotly (Interactive maps)
 
+## Key Insights
+-Vaccination rates correlate strongly with reduced mortality
+-90% of countries showed exponential case growth in 2021
+-Top 5 vaccinated nations had 60% lower death rates
+-Africa showed delayed but prolonged infection waves
+
+## Data Sources
+-Our World in Data COVID-19 Dataset
+-Johns Hopkins CSSE (Historical data)
+
 ## How to Run
 1. Clone repository:
    ```bash
